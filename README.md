@@ -4,7 +4,7 @@ Welcome to **Bankist**, a sleek and simple online banking interface built entire
 
 ## 📸 Preview
 
-![Bankist Preview](./screenshot.png) <!-- Optional: add a screenshot if you have one -->
+![Bankist Preview](./screenshot.png)
 ---
 
 ## 💼 What You Can Do
